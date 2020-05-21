@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>練習その1</title>
+</head>
+<body>
+<h1>初めてのHTML</h1>
+HTMl文書って、変更するのも簡単です。
+</body>
+</html>
